@@ -1,0 +1,2068 @@
+title_id,name
+1,Technical Team Leader
+2,DevOps Engineer
+3,Platform Software Engineer
+4,"Magento Developer (Middle, Senior)"
+5,Middle/Senior Full Stack Developer
+6,Frontend Developer
+7,Senior Fullstack Developer
+8,Senior React Developer
+9,Business Analyst
+10,Senior iOS Developer (Poland/remote)
+11,Java Developer
+12,Frontend Developer
+13,IT Server Specialist
+14,Android Developer Mid/Senior
+15,System Administrator
+16,Java Developer (Mid)
+17,.NET Developer
+18,Programista PHP/Laravel | Jun/Mid | etat
+19,Business Relationship / Matching Manager
+20,.NET Developer
+21,Junior Developer/Support Engineer
+22,UI Developer
+23,Junior React Developer
+24,IT Support (German)
+25,FRONTEND DEVELOPER (ANGULAR)
+26,Technical Support with German
+27,Frontend Developer
+28,Junior C# Developer
+29,E-learning developer
+30,E-learning developer
+31,E-learning developer
+32,Junior Service Specialist
+33,Tester oprogramowania
+34,Junior PHP Developer (Staż/Intern)
+35,Data Scientist / ML Engineer
+36,Full stack developer (React.js + Node.js/Python) / Tech Lead
+37,Frontend developer (React)
+38,Data scientist
+39,Full Stack Developer - Web Developer
+40,Full Stack Developer - Web Developer
+41,React.js developer (regular)
+42,UX/UI Designer (regular)
+43,Junior Data Analyst
+44,IT Support with French/Dutch
+45,(Junior) Banking Operations Specialist
+46,IT Support with German
+47,Engineering Tech Lead
+48,Senior Data Engineer
+49,Senior Data Engineer
+50,Senior Software Engineer
+51,Senior Full Stack Developer
+52,Data / Enterprise Architect
+53,Senior Embedded C++ Developer
+54,AUTOSAR Engineer
+55,Engineering Team Lead
+56,Senior Angular Developer
+57,Full-stack Developer
+58,Machine Learning/Data Scientist
+59,C++ Software Engineer (CAD/CAM)
+60,C++ / C# Engineer
+61,Java Developer ☕️
+62,Engineering Team Leader
+63,Engineering Team Leader
+64,PHP Backend Developer
+65,Java Developer
+66,Embedded Software Engineer
+67,Senior Java Developer
+68,Senior PHP Developer
+69,ServiceNow Developer
+70,Android Developer
+71,Android Developer
+72,Java Developer / Architect
+73,Java Architect
+74,Software Engineer C#/C++/C
+75,Senior Frontend Developer
+76,Golang Developer
+77,Backend Developer (Node.js)
+78,Backend Developer (Node.js)
+79,C++ / C# Engineer
+80,C++ Engineer
+81,System Testing Engineer
+82,Frontend Developer
+83,.NET Developer
+84,Frontend Developer
+85,Senior Test Automation Engineer
+86,Senior Java Developer
+87,PHP Developer
+88,Senior .NET Developer
+89,C# .NET Developer
+90,Android Developer
+91,iOS Developer
+92,Fullstack .Net Developer
+93,Mobile Developer
+94,Frontend Developer
+95,.NET Developer
+96,Experienced DevOps Engineer (Kubernetes)
+97,Salesforce Developer
+98,FullStack .Net Developer
+99,Data Architect (DWH/ETL)
+100,Senior Flutter Developer
+101,DevOps Engineer
+102,Information Security Analyst
+103,.NET/C# Developer
+104,Mid Java Developer
+105,Automation Tester
+106,Vue.js dev to be Fullstack
+107,Vue.js dev to be Fullstack
+108,Python Developer
+109,Mid/Senior Frontend Developer
+110,Backend Developer (Mid/Senior)
+111,Web Developer
+112,Ruby On Rails Engineer
+113,Back-End Developer (.NET)
+114,Backend Developer
+115,UI/UX Designer
+116,Frontend Developer
+117,Test Engineer
+118,Mid .NET Developer
+119,Mid .NET Developer
+120,Frontend Developer
+121,Junior Software Engineer
+122,Junior Embedded Developer
+123,Technical Support Engineer
+124,IT Solutions Developer (SQL)
+125,Fullstack Python Developer
+126,QA Engineer
+127,Junior Vue.js dev to be Fullstack
+128,Junior Vue.js dev to be Fullstack
+129,PROGRAMISTA PHP
+130,.NET Developer
+131,Front-end Developer
+132,Junior Frontend Developer (React)
+133,Junior Frontend Developer (React)
+134,Remote IT Technical Support with German
+135,Magento 2 Junior Backend Developer
+136,"Junior Frontend Developer - React, TS"
+137,Tester/Opiekun klienta/Wsparcie handlowe
+138,IT Technical Support with Spanish
+139,Junior Web Developer
+140,FullStack Developer (Python)
+141,Senior Big Data Engineer
+142,Senior BI Developer
+143,React Frontend Developer
+144,Performance Tests Automation Engineer
+145,Automation Test Engineer (QA)
+146,DWH Developer
+147,ServiceNow Developer
+148,Microsoft Dynamics 365 Support Engineer
+149,Game Developer
+150,Game Developer
+151,"Support Engineer L2 (SQL, IIS)"
+152,Application Administrator
+153,Web developer - Ruby on Rails
+154,Lead Engineer (Mid-level also available)
+155,DevOps Virtualization Lead Consultant
+156,DBA Expert
+157,DBA Expert
+158,Junior SysOp / SysOp
+159,Konsultant techniczny (IT Helpdesk)
+160,Mid/Senior .Net Developer
+161,.Net Developer
+162,Magento 2 Developer
+163,Junior .Net Developer
+164,Python Backend Developer
+165,Junior Python Developer
+166,Fullstack Developer
+167,Tech Lead .NET
+168,Front-End Developer
+169,Mid/Senior Back-End Developer
+170,Full Stack Developer
+171,Technical Lead .NET
+172,UX Designer
+173,Salesforce Developer
+174,Senior Full Stack Engineer
+175,Salesforce Engineer
+176,Java Developer (with German)
+177,Java Developer
+178,Lead/ Senior React Developer - FinTech
+179,Regular/Senior Data Scientist
+180,(Senior/Regular) Full Stack Engineer
+181,Infrastructure Architect
+182,Senior Java Developer
+183,FrontEnd Developer with Angular
+184,Angular.js developer
+185,.NET Developer
+186,Senior Java Software Engineer
+187,Senior Java Software Engineer
+188,Java Developer
+189,Senior Backend Developer
+190,Senior DevOps Engineer
+191,Front-end Developer with Angular
+192,Senior Java Developer
+193,Engineering Manager (Mobile)
+194,DevOps Engineer
+195,.NET Backend Developer
+196,.NET Developer
+197,.NET Backend Developer
+198,.NET Developer
+199,Senior Data DevOps Engineer
+200,DevOps Developer
+201,DevOps Developer
+202,DevOps Developer
+203,JAVA Developer
+204,Senior Fullstack Engineer (Node.js)
+205,Senior Technical Product Owner
+206,Java Developer
+207,Data Scientist
+208,DevOps Engineer
+209,Java Developer
+210,Full stack developer
+211,(Mid / Senior) Backend Developer w AWS
+212,Full stack developer
+213,Mid DevOps/Software Engineer
+214,Mid Developer (Java) - IoT
+215,Senior Developer (Java) - IoT
+216,Ruby on Rails Developer
+217,C# Developer (Junior/Mid/Senior)
+218,Azure Developer
+219,Azure Engineer
+220,Senior/Mid Backend Developer
+221,IOS Developer
+222,Programista PHP Laravel/Symfony
+223,PHP (Symfony) Senior Developer
+224,Mid/Senior Node.js Developer
+225,Senior Java/Kotlin Developer
+226,Fullstack Developer .Net + Angular
+227,Fullstack developer .Net + Angular
+228,DevOps Engineer
+229,Senior iOS Developer
+230,Mid Full-Stack Web Developer
+231,Senior Full-Stack Web Developer
+232,Senior React Developer
+233,Senior React Developer
+234,React Developer
+235,Front End Developer (React)
+236,Magento Developer/Architekt E-commerce
+237,Senior Data Engineer
+238,Java Developer
+239,Java Developer
+240,Product Manager Mobile App
+241,Python Developer
+242,Python Developer
+243,BI Consultant/Engineer
+244,DevOps Engineer
+245,C# Developer
+246,.Net Developer
+247,Programista .NET
+248,Programista C#
+249,JAVA DEVELOPER
+250,.NET/C# Developer
+251,Senior/ Mid Java Developer
+252,Backend Developer
+253,Node.js backend developer
+254,Senior/ Mid QA Engineer - IoT
+255,Senior QA Engineer
+256,Android Developer
+257,Android Developer
+258,Full Stack Engineer
+259,Mid/Senior QA Engineer
+260,Java Developer
+261,Remote Backend Developer (.NET)
+262,Front End Developer (ReactJS)
+263,Front End  Developer (ReactJS)
+264,Zastępca Dyrektora IT ds. Operacyjnych
+265,Microsoft Senior Cloud Engineer
+266,Project Manager
+267,Fullstack Developer
+268,Java Script Developer/ NodeJS
+269,Programista Flutter
+270,Backend Developer
+271,Node.js Developer
+272,Ruby on Rails Developer
+273,Ruby on Rails Developer
+274,Senior Backend/Python Engineer
+275,Senior Embedded Firmware Developer
+276,Python / Django Web Developer (f/m/d)
+277,Product Owner
+278,Magento Developer (Backend)
+279,Software Engineer (Backend)
+280,Full Stack PHP Developer
+281,Fullstack Developer
+282,PHP Developer
+283,PHP Developer
+284,IT Manager
+285,React Native Developer
+286,React Developer
+287,React Developer
+288,.NET Developer
+289,QA Tester / Software Tester
+290,Senior Java Game Developer
+291,Senior Java Game Developer
+292,Java Developer
+293,Java Developer
+294,DevOps/SysOps
+295,Salesforce Developer
+296,BACKEND ENGINEER PHP/GO
+297,PHP Developer
+298,PHP Developer
+299,UI/UX Developer
+300,Inżynier Sieci
+301,Integration Engineer
+302,WordPress Developer
+303,UX / UI Designer
+304,PHP Developer
+305,QA Engineer (junior/mid)
+306,PHP Developer
+307,Koordynator testów / Tester
+308,Junior Java Developer
+309,Frontend Developer
+310,Back End Developer
+311,.NET Developer (Full Stack)
+312,.NET Developer (Full Stack)
+313,Remote Scrum Master/Agile Facilitator
+314,Regular Frontend/Vue Developer
+315,Regular PHP Developer
+316,Tester Manualny
+317,Tester Manualny
+318,IT Service Specialist
+319,ERP Support Consultant
+320,Frontend Developer
+321,C#/.Net Developer
+322,Agile Project Manager
+323,Agile Project Manager
+324,Linux Administrator
+325,Linux Administrator
+326,Programista C++
+327,PHP Developer (Laravel)
+328,PHP Developer
+329,JAVA DEVELOPER
+330,Angular Web Developer
+331,Digital Analyst
+332,PHP Backend Developer
+333,Full Stack PHP Developer
+334,Manual Tester (Mid/Sr)
+335,Frontend Developer
+336,Java Game Developer
+337,Java Game Developer
+338,Web Developer / WordPress Developer
+339,FullStack Developer - Nodejs + Vue/React
+340,Programista PHP - Prestashop
+341,Programista PHP - Prestashop
+342,Programista Python Junior
+343,IT Project Manager
+344,Project Manager
+345,Junior Application Support Engineer
+346,Junior Software Engineer
+347,Junior PHP Developer
+348,Junior Frontend Developer
+349,Młodszy programista SQL
+350,Junior Fullstack Developer
+351,Junior Frontend Developer
+352,JUNIOR FRONTEND DEVELOPER
+353,WordPress Developer
+354,Software Project Manager / Product Owner
+355,Specjalista ds. Wsparcia i Rozwoju
+356,Tester Automatyzujący (Mid)
+357,Junior PHP Laravel Developer (Wrocław)
+358,Java / Frontend Developer
+359,Junior PHP Developer
+360,Konsultant ds. wdrożeń systemu ERP
+361,Tester oprogramowania (Mid)
+362,Junior Project Manager
+363,Junior JavaScript developer
+364,Specjalista ds. wsparcia działu IT
+365,Junior Node.js Developer
+366,Junior Java Game Dev
+367,PHP Developer
+368,React Developer
+369,Fullstack Developer
+370,Junior Tester
+371,Analityk biznesowo-systemowy
+372,Junior IT Recruiter
+373,Junior Support Specialist
+374,Junior Support Specialist
+375,Junior java developer
+376,Konsultant ds. wdrożeń systemów ERP
+377,Konsultant ds. systemów ERP - obszar HR
+378,Junior Software Tester
+379,IT Support Specialist
+380,Junior Web Developer
+381,Junior manual tester
+382,Wsparcie techniczne klienta (Wordpress)
+383,Backend Software Engineer
+384,Senior Backend Engineer
+385,Software Engineer (Full-Stack)
+386,Lead Developer (DeFi/ Blockchain)
+387,Support Engineer
+388,Timescale/PostgreSQL Engineer
+389,Data Scientist
+390,Blockchain Engineer (Substrate / Rust)
+391,Senior System Software Engineer
+392,Senior Frontend Engineer
+393,SAP Joint Venture Accounting (JVA) Lead
+394,DevOps Engineer
+395,Senior Next.js Frontend with Web3
+396,Senior Python Developer
+397,Senior Ruby Engineer
+398,Senior Ruby Engineer
+399,Principal Software Engineer
+400,Big Data Developer
+401,Mid/Senior Backend Developer (Node.js)
+402,Senior Full Stack Engineer / Tech Lead
+403,Infrastructure Engineer
+404,Software Engineer
+405,Senior Software Engineer - Enterprise
+406,Senior Software Engineer
+407,Java Developer
+408,Senior Flutter Developer m/f/d
+409,JUNIOR / MID REMOTE CLOUD DEVELOPER
+410,Senior Data Scientist / AI Engineer
+411,Backend Software Engineer
+412,Full Stack Lead Engineer
+413,Senior Angular Frontend Developer
+414,Angular Developer
+415,Quality Assurance Engineer
+416,DevOps Engineer
+417,"DevOps Engineer (GCP, Python)"
+418,Senior Cloud Engineer
+419,Senior Java/Kotlin Backend-Engineer
+420,Senior Java/Kotlin Backend-Engineer
+421,SAP Data Analyst
+422,Java Developer
+423,Java Software Engineer (Full Stack)
+424,Java Software Engineer (Full Stack)
+425,Mid/Senior Fullstack Javascript
+426,Software Developer in Test
+427,Senior Java Developer (100% Remote or Hybrid)
+428,Ruby on Rails Engineer
+429,IT Service Specialist
+430,Senior PHP Backend Developer
+431,.Net Developer
+432,Azure Specialist
+433,Frontend Developer
+434,Java Developer
+435,Junior Requirements Engineer
+436,Technical Writer
+437,Technical Writer
+438,Frontend Developer
+439,Angular Developer
+440,Angular Frontend Developer
+441,Software Developer Visual Studio C++/C#
+442,Software Engineer
+443,Analityk Systemów/ Architekt Systemów IT
+444,Software Developer Visual Studio C++/C# (m/f)
+445,Angular Frontend Developer (m/f)
+446,QA Engineer (m/f)
+447,Software Support Engineer (m/f)
+448,Software tester
+449,Software Tester
+450,UX Designer
+451,Java Developer (100% Remote or Hybrid)
+452,React Developer
+453,IT Administrator / Support Specialist
+454,IT Administrator / Support Specialist
+455,Python Developer
+456,Analityk Systemów/ Architekt Systemów IT
+457,Full Stack Developer
+458,Full Stack Developer
+459,Digital Analyst
+460,Remote Fullstack Developer
+461,Fullstack Developer
+462,Mid DevOps Engineer
+463,IT Helpdesk & Network Specialist
+464,Informatyk ze znajomością JS
+465,Data Scientist
+466,ARCHITEKT PROCESÓW BIZNESOWYCH
+467,Junior Data Engineer
+468,Junior Data Engineer
+469,Analityk Internetowy
+470,Młodszy administrator IT
+471,Tester Automatyzujący
+472,Programista Python
+473,Junior python developer
+474,Junior python developer
+475,Tester manualny (Junior/Mid)
+476,Tester manualny (Junior/Mid)
+477,Programista PHP
+478,Junior Software Engineer
+479,Junior Software Engineer
+480,Junior Front-end Developer
+481,Młodszy Informatyk ze znajomością JS
+482,Programista PHP (Junior)
+483,Junior Dynamics NAV / BC Developer
+484,QA Engineer - Koordynator testów
+485,Test Engineer
+486,PHP Engineer
+487,JavaScript Engineer
+488,Test Engineer
+489,Informatyk / Administrator IT
+490,Młodszy Administrator IT
+491,SRE
+492,PHP developer
+493,DevOps Ninja
+494,Mid Golang Developer
+495,Remote Java Developer
+496,Frontend Developer
+497,Senior Data Engineer
+498,Java Developer w/ some Angular
+499,Kotlin + Java Developer
+500,C#/.Net Developer
+501,DevOps Wizard
+502,Senior software developer
+503,Backend .Net Developer
+504,Backend .Net Developer
+505,RPA Developer
+506,Frontend Developer
+507,Frontend Developer
+508,Mid/Senior .NET Full-stack Developer
+509,.NET Developer -Greenfield Project
+510,Mid .NET Full-stack Developer
+511,React Developer
+512,PHP Developer
+513,Front-End Developer
+514,PHP Developer E-commerce
+515,Web Developer / WordPress Developer
+516,Administrator systemów serwerowych
+517,Junior c++ engineer/ remote
+518,Wsparcie PM w Software house
+519,IT Support Specialist
+520,IT Project Manager
+521,Junior .NET Developer
+522,Junior/Mid PHP Developer
+523,Tester / Specjalista ds. wsparcia
+524,Junior DevOps Engineer
+525,Junior Python Developer
+526,Specjalista ds. wdrożeń systemów B2B
+527,Inżynier wsparcia sieci
+528,Senior/Lead Machine Learning Engineer
+529,DevOps Engineer
+530,Senior/Lead DevOps Engineer
+531,Full-Stack Remote Developer
+532,Full-Stack Remote Developer
+533,C++ Developer for Google
+534,Senior Backend Developer - Golang
+535,Backend Engineer (NodeJS)
+536,Senior Android Developer
+537,Application Engineer - Linux/Unix
+538,Application Administrator
+539,Project Manager
+540,Java Developer
+541,Application Management Engineer
+542,.NET Developer
+543,.NET Developer
+544,Java Developer
+545,Operation Engineer with Linux/Unix
+546,DevOps Engineer
+547,C++ Software Engineer (Mid/Senior)
+548,C++ Software Engineer (Mid/Senior)
+549,C++ Software Engineer (Mid/Senior)
+550,Full Stack Developer
+551,Mid/Senior Full Stack Laravel Vue.js Dev
+552,Data Management Evangelist
+553,Application Manager
+554,C++ Developer
+555,Machine Learning Engineer / MLOps
+556,Machine Learning Engineer / MLOps
+557,C++/QT Developer
+558,Application Support Engineer
+559,Senior .Net Developer
+560,Senior .Net Developer
+561,Senior .Net Developer
+562,Python Developer
+563,Mid Front-End developer (JavaScript)
+564,Mid Front-End developer (JavaScript)
+565,Android Developer
+566,Oracle Administrator (DBS Operations)
+567,Java Developer
+568,Programista FPGA systemów Embedded
+569,.NET Developer
+570,Product Owner
+571,PHP Developer
+572,DevOps / Administator IT
+573,.NET Developer
+574,IT Business and Systems Analyst
+575,IT Business and Systems Analyst
+576,ServiceNow Senior Technical Consultant
+577,ITSM Senior Technical Consultant
+578,ServiceNow Senior Technical Consultant
+579,Operations Engineer for Data Processing
+580,Technical Product Manager (Remote)
+581,Technical Product Manager (Remote)
+582,Product Manager (Remote)
+583,Application Administrator (Unix/Linux)
+584,Senior Backend Developer (PHP)
+585,Product Designer (Remote)
+586,Senior Web QA Automation Engineer
+587,Mid .Net Developer
+588,Senior Web QA Engineer
+589,Mid .Net Developer
+590,ASP.NET Developer
+591,Cloud Software Developer (JS/ServiceNow)
+592,Cloud Software Developer (JS/ServiceNow)
+593,JavaScript Developer (ServiceNow)
+594,Administrator Systemów
+595,Programista Python
+596,Programista Java fullstack
+597,QA Automation Engineer
+598,React Native Developer
+599,React Native Developer
+600,Metadata Consultant (Product Expert)
+601,Programista Backend (PHP)
+602,QA Automation Engineer
+603,QA Automation Engineer
+604,PrestaShop Developer
+605,Business Analyst
+606,C/C++ Embedded Software Developer
+607,FPGA Developer
+608,Support Engineer
+609,Programista Backend (C#)
+610,Programista Backend (C++/Qt)
+611,Drupal Developer
+612,Drupal Developer
+613,Drupal Developer
+614,PHP Developer
+615,PHP Developer
+616,Flutter Developer
+617,iOS Developer
+618,Remote Product Architect (Startup)
+619,Remote Product Architect (Startup)
+620,Software Developer
+621,C# Developer
+622,Technical Product Manager
+623,Software Quality Assurance Engineer
+624,Android Developer
+625,Admin Systemów i Sieci
+626,Frontend developer
+627,Frontend developer
+628,iOS Developer
+629,Junior .Net Developer
+630,Junior .Net Developer
+631,Junior .Net Developer
+632,Junior Frontend Developer (Vue.js)
+633,Frontend Developer (Regular/Senior)
+634,PHP Developer
+635,Frontend Web Developer
+636,Frontend Web Developer
+637,UI/UX Designer
+638,C# Developer (Remote)
+639,C#/.Net Core Backend Developer (Remote)
+640,C# DevExpress Desktop Developer (Remote)
+641,C#/.Net Core Backend Developer (Remote)
+642,Tester Oprogramowania
+643,SQL Developer (Remote)
+644,Technical Writer (Data)
+645,Technical Content Writer (Data)
+646,PHP Backend Developer
+647,Electronics Hardware Production Manager
+648,QA Engineer with SQL
+649,Junior DevOps Engineer
+650,Junior C/C++ Embedded Developer
+651,QA Automation Engineer
+652,Frontend Developer
+653,System Administrator
+654,QA manual Tester
+655,Customer Support Team Leader (Remote)
+656,Technical Project Manager
+657,Programista FPGA systemów Embedded
+658,Junior .NET Developer
+659,Junior .NET Developer
+660,Junior .NET Developer
+661,Frontend Web Developer
+662,QA Engineer
+663,Technical Support Specialist
+664,Programista Delphi
+665,System Administrator
+666,Service Desk Specialist
+667,Specjalista ds. IT
+668,Specjalista ds. wsparcia IT
+669,Junior Frontend Developer
+670,Junior PHP Developer
+671,Junior iOS Developer
+672,Junior Java Developer
+673,Junior C# Developer
+674,Junior Metadata Engineer (Remote)
+675,Junior QA Engineer with SQL
+676,Junior C# Parser Developer
+677,Junior C# Developer
+678,Junior BI/Data Engineer (Remote)
+679,Junior .NET Core Developer
+680,Junior Angular Frontend Developer (Remote)
+681,Junior SQL Developer
+682,Junior BI/Data Engineer (Remote)
+683,Helpdesk Specialist (1st line)
+684,(Junior) IT Support
+685,Junior PHP Developer
+686,Junior Flutter Developer
+687,ServiceNow Junior Technical Consultant
+688,Junior Magento Developer
+689,Junior Drupal Developer
+690,Junior Shopware Developer
+691,Junior PHP Developer
+692,Junior Frontend Developer
+693,Junior C#/ANTLR Developer (SQL Parsing)
+694,Junior Product Owner
+695,Junior Project Manager
+696,Junior Project Manager
+697,Junior Technical Support
+698,Junior Troubleshooter
+699,Junior Java Developer
+700,(Junior) Helpdesk Specialist
+701,Junior IT Helpdesk Engineer
+702,Helpdesk Specialist
+703,Junior PHP Developer
+704,Junior Project Manager
+705,React Native Developer
+706,Business Customer Support
+707,Junior CRM/PHP Developer
+708,Junior Quality Assurance Specialist
+709,Data Administrator with German
+710,Junior UX/UI Designer
+711,Junior ecommerce application tester
+712,Help Desk / E-commerce Specialist
+713,Help Desk
+714,Junior Hardware Validation Engineer
+715,Junior Hardware Validation Engineer
+716,Junior Hardware Validation Engineer
+717,Junior Hardware Validation Engineer
+718,Junior Helpdesk IT
+719,Technik Elektronik
+720,Junior Embedded C Developer
+721,Junior Embedded Systems Developer
+722,Junior Embedded Systems Developer
+723,Junior Embedded C Developer
+724,Junior Embedded C Developer
+725,Junior Embedded Systems Developer
+726,Junior Embedded Systems Developer
+727,Junior Embedded C Developer
+728,Junior Manual Tester
+729,Technical Specialist
+730,Technical Specialist
+731,Tester aplikacji mobilnych
+732,Backend Software Engineer
+733,System Administrator
+734,System Administrator
+735,Mid Angular Developer
+736,Mid Python Developer
+737,"Fullstack Developer (PHP, JavaScript)"
+738,Back-end (Node.js) Engineer
+739,QA Engineer
+740,Senior Frontend Developer - React or Vue
+741,Senior Frontend Developer - React or Vue
+742,Senior/Reg. Backend Developer - Node.js
+743,Senior/Reg. Backend Developer - Node.js
+744,Senior Site Reliability Engineer
+745,Senior Site Reliability Engineer
+746,Senior Python Software Engineer
+747,Remote Senior Performance Tester
+748,Remote Software Developer Python
+749,Node.js Backend Engineer (remotely)
+750,Software Engineer (C#)
+751,Senior/Mid Back-end Engineer (Python)
+752,Senior/Mid Back-end Engineer (Python)
+753,QA Automation Engineer (Cypress)
+754,QA Automation Engineer (Cypress)
+755,Remote Backend Python Developer
+756,Senior Software Engineer .NET
+757,Software Development Engineer
+758,Linux System Administrator
+759,FrontEnd Developer (Angular)
+760,Frontend Developer (Angular)
+761,Mid Frontend Developer
+762,Frontend Developer (Angular)
+763,Frontend Developer (Vue.js)
+764,NOC - Site Reliability Engineer
+765,NOC - Site Reliability Engineer
+766,Senior Site Reliability Engineer
+767,Junior Software Developer
+768,Junior Data Scientist
+769,Junior Software Engineer
+770,JUNIOR-MID PHP DEVELOPER
+771,Junior Project Manager
+772,Junior Integration Engineer
+773,Junior IT Specialist
+774,Software Tester
+775,Software Tester
+776,Junior Game Designer
+777,Hybrid Cloud Engineer
+778,Magento Developer (PHP)
+779,Software Engineer - Cloud Infrastructure
+780,Senior Data Engineer
+781,Software Engineer - Cloud Infrastructure
+782,Golang Developer
+783,Full-stack engineer
+784,Fullstack Developer (Angular + .NET)
+785,Fullstack Developer (.NET + Angular)
+786,Front-End Web App Developer
+787,Data Analytics Expert/Manager
+788,Data Analytics Architect/Manager
+789,Data Analytics Expert/Manager
+790,Technical Project Manager
+791,Data Analytics Expert/Manager
+792,Data Analytics Architect/Manager
+793,Database Admin
+794,Senior UX Designer/UX Manager
+795,Senior UX Designer/UX Manager
+796,Project Manager
+797,Embedded C++ Software Engineer
+798,Mobile C++/3D Software Engineer
+799,Software Engineer - Core Database Engine
+800,Software Engineer - Python
+801,Software Engineer - Core Database Engine
+802,Software Engineer - Python
+803,Data Partnership Manager
+804,Senior Data Engineer
+805,Senior Data Engineer
+806,Senior Machine Learning Engineer
+807,DevOps Engineer
+808,Android Software Engineer
+809,Embedded C++ Software Engineer
+810,Senior Frontend Developer
+811,Software Engineer (Scala/Kotlin/Rust)
+812,DevOps Engineer
+813,Architekt Rozwiązań
+814,Architekt Rozwiązań
+815,Android Developer
+816,C++ Software Engineer (QT)
+817,C++ Software Engineer
+818,Frontend Developer
+819,QA Engineer / Software Engineer in Test
+820,REMOTE JAVA Developer
+821,.NET Developer
+822,Angular Developer (Mid/Senior)
+823,Mid DevOps Engineer
+824,QA Engineer
+825,Frontend Developer
+826,Frontend Developer
+827,Senior UX/UI Designer
+828,IT Procurement Specialist
+829,Node.js/React Engineer
+830,QA Engineer
+831,QA Engineer
+832,QA Engineer
+833,Programista BI (PowerBI/Tableau/Qlik)
+834,REMOTE DevOps Engineer
+835,Kupiec IT/IT Procurement Specialist
+836,Kupiec IT/IT Procurement Specialist
+837,Kupiec IT/IT Procurement Specialist
+838,Cloud Compliance&Security Engineer
+839,Cloud Security&Compliance Engineer
+840,Microsoft Office 365/SharePoint/CRM/.NET
+841,REMOTE Front-end Developer
+842,Front-End Angular Developer
+843,Senior Front-end developer with Vue.js
+844,Python ( Django) Developer
+845,QA Engineer
+846,QA Engineer
+847,Java Backend Developer
+848,Web Developer .Net/C#
+849,Frontend Developer/ React
+850,Programista iOS
+851,Programista C++
+852,Programista iOS
+853,Programista Aplikacji Mobilnych
+854,PHP Software Engineer
+855,iOS Test Automation Engineer
+856,PHP Symfony Developer
+857,PHP Symfony Developer
+858,Mid Software Engineer in Test - C++
+859,Mid Software Engineer in Test - C++
+860,Analityk Systemowy
+861,Inżynier DevOps/Administrator Linux
+862,Inżynier DevOps
+863,Programista Android
+864,Programista iOS
+865,Data Analyst
+866,Programista iOS
+867,Programista Android
+868,Programista Android
+869,Programista Android
+870,Administrator Linux
+871,Programista Aplikacji Mobilnych
+872,Programista Aplikacji Mobilnych
+873,Administrator Linux/DevOps
+874,Linux Administrator/DevOps
+875,Digital Analyst
+876,Programista Frontend (Vue)
+877,Programista C++
+878,Administrator Linux
+879,DevOps Engineer
+880,Frontend Developer
+881,REMOTE Manual or Automation Tester or QA
+882,Frontend / JavaScript Developer
+883,Python Developer
+884,PHP Symfony Developer
+885,PHP Symfony Developer
+886,Frontend Developer (Vue.js)
+887,Backend Python Developer
+888,Web QA Automation Engineer
+889,Web QA Automation Engineer
+890,Delphi/ C#  Developer
+891,Programista PHP
+892,Java Developer
+893,Programista Java
+894,Java Developer
+895,Web QA Automation Engineer
+896,Młodszy Kierownik Projektów
+897,Frontend / JavaScript Developer
+898,Tester
+899,Junior PowerBI/Tableau/Qlik Developer
+900,Junior Cloud Compliance&Sec Engineer
+901,Junior Cloud Sec&Compliance Engineer
+902,Junior Cloud Sec&Compliance Engineer
+903,Junior Cloud Sec&Compliance Engineer
+904,Junior UX Designer/Trainee
+905,Młodszy Programista iOS
+906,Młodszy Programista Android
+907,Młodszy Programista C++
+908,Młodszy Programista iOS
+909,Junior+ Wordpress Front-End Developer
+910,Junior+ Wordpress Front-End Developer
+911,Junior+ PHP Symfony Developer
+912,Quality Assurance Specialist
+913,QA Engineer
+914,Junior Java Developer
+915,QA Tester
+916,Software Tester (QA)
+917,Młodszy inżynier oprogramowania
+918,Web QA Specialist
+919,Junior Web QA Automation Engineer
+920,IT HelpDesk - BOK Zenbox.pl
+921,Junior Software Test Engineer
+922,Junior Software Test Engineer
+923,Content Writer
+924,Junior QA Engineer
+925,Junior Frontend Developer
+926,Junior Backend Developer
+927,Machine Learning Engineer
+928,Embedded Software Developer
+929,Back-end Engineer - Node.js
+930,Magento Developer
+931,Magento Developer
+932,PHP/JS Developer
+933,Administrator Usług Microsoft
+934,PHP Developer
+935,Junior PHP/JS Developer
+936,Junior PHP Developer
+937,IS Security Engineer
+938,iOS developer 🪐 remote or not-your call
+939,Senior Java Developer
+940,Senior JavaScript Developer
+941,Android Developer
+942,Android Developer
+943,C# Developer
+944,Backend Developer
+945,Backend Developer
+946,App Deployment & Infrastructure Engineer
+947,Remote JavaScript Developer
+948,Remote JavaScript Developer
+949,.NET Developer
+950,Full-stack .NET Developer (remote)
+951,Full-stack .NET Developer (remote)
+952,"Programista CC+, EMBEDDED / Robotyk"
+953,"JavaScript Developer, Tech Leader"
+954,C# developer
+955,C# developer
+956,Frontend Developer
+957,Mistrz JavaScript - choć niekoniecznie
+958,Technical Manager
+959,Python Software Engineer
+960,Python Software Engineer
+961,C#/.Net Developer
+962,Tech Lead Backend (Python)
+963,Mid PHP/Symfony Dev | part-time possible
+964,React Frontend Dev
+965,React Frontend Dev
+966,Frontend Developer / Full Stack
+967,Frontend Developer / Full Stack
+968,UX/UI Designer
+969,Test Lead
+970,C++ Developer
+971,Web Developer
+972,BI / SQL (Data Warehouse) Developer
+973,Test Engineer
+974,.NET Developer
+975,.NET Developer
+976,IT Business Analyst
+977,IT Project Manager
+978,Business Analyst
+979,Support team leader
+980,Backend Developer with Python
+981,Android Developer
+982,Java Mobile Developer
+983,Android Developer
+984,Java Mobile Developer
+985,manual tester 🪐 remote or not-your call
+986,Specjalista systemów IT
+987,Tester automatyzujący
+988,manual tester 🪐 remote or not-your call
+989,Konsultant systemów ERP
+990,Junior C# developer
+991,Junior Backend Developer
+992,IT Support Specialist
+993,Junior Machine Learning Engineer
+994,Junior Implementation Consultant
+995,Magik od systemów IT
+996,Młodszy administrator systemów IT
+997,Junior IT Administrator
+998,Junior IT Administrator
+999,Junior developer (frontend)
+1000,React Native Developer
+1001,Development Manager
+1002,Development Manager
+1003,Data Analyst
+1004,Data Analyst
+1005,CTO (Chief Technology Officer)
+1006,DevOps Manager/Architect
+1007,Senior DevOps Engineer
+1008,Lead Product Designer
+1009,Head of Data Engineering
+1010,Head of Data Engineering
+1011,Java Developer
+1012,Head Of Data Engineering
+1013,Team Lead Frontend Developer
+1014,Senior Full Stack Developer
+1015,Senior Node.js developer
+1016,Data Engineer
+1017,Data Engineer
+1018,Senior Node.js developer
+1019,Senior Full Stack Developer
+1020,Java Developer Multi-Project Consultant
+1021,Product Manager - Operational Excellence
+1022,"Full-Stack Engineer (React, Node.js)"
+1023,Cloud Platform Engineer
+1024,Frontend Developer
+1025,Full Stack Developer
+1026,iOS Developer
+1027,Ruby Developer
+1028,Full Stack Developer
+1029,Software Engineer
+1030,Senior DevOps Engineer
+1031,Software Engineer
+1032,Software Engineer
+1033,iOS Developer
+1034,Full Stack Developer
+1035,Ruby Developer
+1036,Full Stack Developer
+1037,Full Stack Developer
+1038,Java Team Lead
+1039,Frontend Chapter Lead
+1040,Mobile Team Lead
+1041,Senior Back-End Java Engineer (Relo to Berlin)
+1042,Node.js Developer
+1043,Tech Lead
+1044,Node.js Developer
+1045,iOS Tech Lead
+1046,Senior Full Stack Engineer
+1047,Head of Product
+1048,UX/UI Team Leader
+1049,Senior Frontend Developer
+1050,Senior Fullstack Developer
+1051,AWS DevOps Engineer
+1052,Backend Developer | Norwegian company
+1053,QA Automation Expert
+1054,Agile Coach Lead
+1055,Technical Support Engineer
+1056,Senior Android Developer
+1057,Angular Developer_ka z mindsetem DevOps
+1058,Middle+ Node.js Developer
+1059,Senior Full Stack Developer
+1060,Senior Android Developer [App MODIVO]
+1061,Senior IOS Developer [App MODIVO]
+1062,Fullstack Developer
+1063,Frontend Developer
+1064,Software Engineer with AWS
+1065,Senior Full Stack Engineer
+1066,Senior Back-end Developer
+1067,Senior PHP (Magento) Developer
+1068,Agile Coach
+1069,Senior Data Quality Analyst
+1070,Mid Frontend Developer (JavaScript)
+1071,Automation Expert
+1072,Android Developer
+1073,DevOps Engineer
+1074,Angular Developer
+1075,Data Scientist
+1076,Mobile Architect
+1077,Android Developer
+1078,Back-End Developer
+1079,Front-End Developer  (Angular)
+1080,Back-End Developer
+1081,.Net Developer
+1082,Unity/C# Developer
+1083,Business Intelligence Analyst
+1084,Business Intelligence Analyst
+1085,UX Designer – eCommerce Department
+1086,iOS Developer
+1087,Analityk Danych
+1088,PHP Developer
+1089,Mid Vue.js Developer
+1090,Mid Flutter Developer
+1091,Microsoft Specialist M365
+1092,Ruby on Rails Developer
+1093,Scrum Master
+1094,Senior Automation QA Specialist
+1095,Product Owner
+1096,Office 365 Consultant
+1097,Office 365 Consultant - Security
+1098,Office 365 Consultant
+1099,Azure/SharePoint Developer
+1100,Full Stack Web Developer
+1101,PHP Magento Developer
+1102,PHP Back-end Developer
+1103,Front-end Developer
+1104,QA Automation Engineer
+1105,Business Intelligence Analyst
+1106,Fullstack Developer
+1107,Fullstack Developer
+1108,Regular/ Senior Project Manager
+1109,Senior iOS Developer
+1110,iOS Developer
+1111,Agile Coach
+1112,QA Automation Engineer II
+1113,Power Platform Developer
+1114,Workday Analyst
+1115,Frontend Developer
+1116,iOS Developer
+1117,Ruby on Rails Developer
+1118,Android Developer
+1119,iOS Developer
+1120,iOS Developer
+1121,"Software Eng C/C++, wireless protocols"
+1122,IT SYSTEM ADMINISTRATOR
+1123,Quality Assurance Engineer
+1124,Test Automation Engineer
+1125,Line Manager
+1126,Scrum Master
+1127,Product manager
+1128,Test Automation Engineer
+1129,Head of Project Management
+1130,Specjalista ds. ciągłości działania
+1131,Senior Automation Engineer
+1132,Full Stack Developer
+1133,Full Stack Developer
+1134,Full Stack Developer
+1135,Mid Angular Developer
+1136,QA Automation Engineer (Mobile)
+1137,Agile Project Manager
+1138,UI Designer
+1139,Frontend Developer (VUE.JS)
+1140,Specjalista ds. bezpieczeństwa IT
+1141,Specjalista ds. bezpieczeństwa IT
+1142,Product Owner
+1143,UX Researcher
+1144,"Software Eng C/C++, wireless protocols"
+1145,Scrum Master
+1146,React Native Developer
+1147,Regular/Senior UI Designer
+1148,Unity Engine Technical Artist
+1149,AR Unity Developer
+1150,Linux System Administrator / SysOps
+1151,Linux System Administrator / SysOps
+1152,Linux System Administrator / SysOps
+1153,Flutter Developer
+1154,Mobile Developer
+1155,Unreal Technical Artist
+1156,Product Trainer / Writer
+1157,Tester Automatyzujący
+1158,Senior Android Developer
+1159,QA Engineer
+1160,Frontend Developer_ka
+1161,Frontend Developer (i coś więcej)
+1162,Product Administrator
+1163,Back-End Developer
+1164,React Native Developer
+1165,Android Developer
+1166,React Native Developer
+1167,Android Developer
+1168,PHP Laravel Developer
+1169,React Frontend Developer
+1170,Back-End Developer
+1171,.Net Developer
+1172,PHP Developer
+1173,QA Automation Engineer I
+1174,Test Engineer
+1175,Mid PHP Developer
+1176,DevOps
+1177,Automation Engineer
+1178,Frontend Developer
+1179,Analityk Biznesowo-Systemowy
+1180,PHP Developer_ka
+1181,Początkujący Angular Developer
+1182,Web Games Developer
+1183,VFX Artist
+1184,Software Developer
+1185,UX/UI Designer
+1186,TEST AUTOMATION ENGINEER
+1187,UX/UI Designer
+1188,Manual QA Specialist
+1189,QA Engineer
+1190,Frontend Developer do Design System
+1191,Frontend Developer
+1192,Junior Java Developer
+1193,Administrator sieci
+1194,Junior Android Developer
+1195,Junior Fullstack Developer (JavaScript+Node.js)
+1196,Junior PHP Developer
+1197,Test Engineer
+1198,Junior Salesforce Developer
+1199,Junior React Developer
+1200,Junior PHP Developer
+1201,Specjalista ds. wdrożeń systemów IT
+1202,Junior .NET Developer
+1203,Back-End Developer
+1204,Junior Project Manager
+1205,Junior Data Analyst
+1206,Junior PHP Developer_ka
+1207,Administrator
+1208,IT Support Specialist
+1209,Junior Flutter Developer
+1210,Junior Vue.js Developer
+1211,Software QA Specialist
+1212,Junior Software Developer
+1213,Junior Software Developer
+1214,Junior Fullstack Developer
+1215,Junior Software Engineer
+1216,Junior Software Developer
+1217,Junior Software Developer
+1218,Junior Software Developer
+1219,Junior Software Developer
+1220,Junior Software Developer
+1221,Junior Software Developer
+1222,Software Engineer with AWS
+1223,Specjalista ds. systemów IT
+1224,Tester Manualny
+1225,Junior Software Engineer
+1226,IT Support Specialist
+1227,Junior Software Developer
+1228,Junior Application Engineer
+1229,Junior Python Developer
+1230,Junior UX/UI Designer
+1231,Junior DevOps Engineer
+1232,Software Tester (junior/middle)
+1233,Młodszy Specjalista ds. IT
+1234,IT Support Specialist
+1235,Junior Software Engineer
+1236,Junior PHP Developer
+1237,Junior Software Tester
+1238,Junior Software Tester
+1239,Junior JavaScript Developer
+1240,Junior Software Engineer
+1241,Junior Software Developer
+1242,Konsultant Helpdesk
+1243,Konsultant Helpdesk
+1244,Młodszy Specjalista ds. IT
+1245,Full Stack Engineer
+1246,Blockchain Engineer
+1247,Blockchain Engineer
+1248,Software Engineer: Academic Innovation
+1249,Full Stack Engineer
+1250,Product Designer
+1251,Frontend Engineer
+1252,Lead Full Stack Engineer
+1253,Senior Backend Engineer (Java/Kotlin)
+1254,AEM Tech Lead
+1255,DevOps Engineer
+1256,Java Full Stack Developer
+1257,Java Full Stack Developer
+1258,Java Full Stack Developer
+1259,Head of Java Unit
+1260,Fullstack Javascript Developer
+1261,Support Engineer
+1262,React Native Developer
+1263,Senior Backend Engineers
+1264,Senior Frontend Engineer
+1265,Senior Ruby Engineer - Remote (EU)
+1266,Senior Full Stack Engineer (Remote)
+1267,Software Engineer (Python)
+1268,Software Engineer (Python)
+1269,Java Software Engineer
+1270,Web Backend Developer (Go)
+1271,Senior .NET Software Engineer
+1272,Senior .NET Software Engineer
+1273,Senior DevOps Engineer
+1274,JS Software Engineer (React)
+1275,Java Software Engineer
+1276,JS Software Engineer (React)
+1277,Java Software Engineer
+1278,DevOps Engineer
+1279,QA Automation Engineer
+1280,Android Software Developer
+1281,Software Developer
+1282,Software Developer
+1283,Full Stack Developer (Angular/NodeJS)
+1284,Tech Lead (Customer Success team)
+1285,Senior DevOps Engineer
+1286,Senior DevOps Engineer
+1287,Senior Fullstack .NET Developer
+1288,Embedded Software Developer
+1289,Embedded Software Developer
+1290,Support Engineer
+1291,Game Developer
+1292,Game Developer
+1293,Backend Developer (Java)
+1294,🔥React Native Engineer
+1295,Mid/Senior Product Owner
+1296,Senior Frontend Developer (React)
+1297,Live Casino Studio Project Manager
+1298,Live Casino Studio Project Manager
+1299,🔥Senior .Net Developer (.NET+AWS)
+1300,UI Software Developer
+1301,General QA
+1302,General QA
+1303,Senior Web Application Tester
+1304,Senior Web Application Tester
+1305,QA Engineer (C#)
+1306,.Net Software Developer
+1307,QA Automation Engineer
+1308,QA Automation Engineer
+1309,Fullstack .NET Developer
+1310,IT Systems Administrator
+1311,Web Application Tester
+1312,Technical Support Engineer
+1313,Project Manager
+1314,Administrator systemów IT
+1315,React Developer
+1316,Frontend Developer
+1317,Analityk danych
+1318,Tester automatyzujący
+1319,Administrator IT
+1320,Backend Java Developer
+1321,Senior ServiceDesk Technician
+1322,Senior ServiceDesk Technician
+1323,Junior Java Developer
+1324,Junior PHP Developer
+1325,IT Support Specialist
+1326,Studio Interior Designer and 3D Artist
+1327,Studio Interior Designer and 3D Artist
+1328,Gaming Equipment Technician
+1329,Gaming Equipment Technician
+1330,Linux System Administrator
+1331,LINUX SYSTEM ADMINISTRATOR
+1332,LINUX SYSTEM ADMINISTRATOR
+1333,Senior Android Developer
+1334,Data Analyst (They/She/He)
+1335,Senior Scala Developer
+1336,Rust Developer
+1337,Mid/Senior Ruby on Rails Developer
+1338,Mid/Senior React + TypeScript Developer
+1339,Backend Developer(ka)
+1340,Agile Project Manager (They/She/He)
+1341,Senior QA Automation Engineer
+1342,QA Engineer(ka)
+1343,Junior IT Administrator
+1344,Angular Developer (Prowly)(They/She/He)
+1345,Angular Developer (Prowly)(They/She/He)
+1346,Junior Backend Developer(ka)
+1347,Junior Product Designer
+1348,Senior Fullstack Software Developer Odoo
+1349,Senior Fullstack Software Developer Odoo
+1350,Senior Ruby Engineer
+1351,Remote Senior DevOps SRE Engineer (Ruby)
+1352,Senior Scala Developer
+1353,Frontend Tech Lead
+1354,Senior iOS Developer
+1355,Blockchain Rust Developer
+1356,Senior iOS Developer
+1357,Blockchain Rust Developer
+1358,Senior Backend Developer
+1359,Senior Android Developer
+1360,Senior Android Developer
+1361,Quality Assurance Engineer (REMOTE)
+1362,Programista PHP
+1363,React Mid Developer
+1364,Mid React Developer
+1365,Senior Front-End Developer (Vue.js)
+1366,Magento 2 Developer (Senior)
+1367,Senior Frontend Developer (Vue.js)
+1368,Magento 2 Developer (Senior)
+1369,Frontend Developer (Angular)
+1370,Programista Java (Mid)
+1371,Programista Java
+1372,Programista Java
+1373,Programista Java (Mid)
+1374,Programista Java
+1375,Frontend Developer (Vue.js)
+1376,Front-End Developer (Vue.js)
+1377,Product Designer
+1378,Product Designer
+1379,Programista .NET (Mid)
+1380,Frontend Developer (Angular)
+1381,Programista .NET (Mid)
+1382,Programista .NET
+1383,Magento 2 Developer (Mid)
+1384,Magento 2 Developer (Mid)
+1385,IT Specialist
+1386,Software Quality Assurance - QA
+1387,Ninja React Developer
+1388,Junior Project Manager
+1389,Junior Project Manager
+1390,Senior Product Manager
+1391,Head of Delivery & Support
+1392,DevOps Engineer (GCP)
+1393,Lead Back End Nodejs Developer
+1394,Lead Front End Developer
+1395,Lead Front End Developer
+1396,Java Tech Lead
+1397,Head of Product Design
+1398,Production Support Service Manager
+1399,SRE Lead
+1400,SRE Lead
+1401,Senior Developer .NET
+1402,Senior NLP Data Scientist
+1403,Senior Frontend Developer
+1404,Senior Frontend Developer
+1405,Senior QA Automation Engineer
+1406,Site Reliability Engineer (SRE)
+1407,Site Reliability Engineer (SRE)
+1408,Site Reliability Engineer (SRE)
+1409,NLP Data Scientist
+1410,ML Python Developer
+1411,Mid/Senior Python Developer
+1412,ML Python Developer
+1413,Senior .NET Developer
+1414,Java Developer
+1415,Senior Frontend Developer
+1416,Senior Magento 2 Developer
+1417,Java Developer + Angular (Regular)
+1418,Administrator Sieci Telekomunikacyjnych
+1419,DevOps Engineer
+1420,Frontend Developer
+1421,Frontend Developer
+1422,Frontend Developer
+1423,Python Developer (future Data Scientist)
+1424,DevOps Engineer
+1425,DevOps Engineer
+1426,Product Manager
+1427,Magento 1 Developer
+1428,Wordpress Developer
+1429,PHP Laravel Developer
+1430,PHP Laravel Developer
+1431,Python Developer for Data Science / NLP
+1432,Fullstack PHP Developer
+1433,Full Stack Developer
+1434,Python Developer
+1435,Front-End Developer
+1436,Quality Assurance Specialist
+1437,Python Developer for Data Science / NLP
+1438,IT Recruiter
+1439,PHP Laravel Developer
+1440,Help Desk / Service Desk Specialist
+1441,Help Desk / Service Desk Specialist
+1442,Młodszy Programista PHP
+1443,Software Tester
+1444,Junior Python ML Developer
+1445,Junior Frontend Developer
+1446,Junior DevOps Engineer
+1447,Młodszy Programista .NET
+1448,Junior QA Specialist
+1449,Junior Tester
+1450,Specjalista Helpdesk
+1451,IT Administrator
+1452,IT Administrator
+1453,IT Administrator
+1454,Technical Support Engineer
+1455,Inżynier Systemowy Linux
+1456,Information Compliance Officer
+1457,Specjalista ds. przetwarzania danych
+1458,IT Support Specialist (1st line) (MID)
+1459,Praktyki IT - programista Java
+1460,Software (Golang) Team Leader
+1461,Back End (Golang) Team Leader
+1462,Head of Software Development
+1463,Software (C++) Team Leader
+1464,Software (C++) Team Leader
+1465,Software Development Manager
+1466,Software Development Manager - Data
+1467,Software Development Manager - Frontend
+1468,Lead Product Manager
+1469,"Remote FullStack Developer (C#, .Net)"
+1470,Software Development Engineer Forecast
+1471,Software Development Engineer - Frontend
+1472,Software Development Engineer III – Java
+1473,Security Engineer III
+1474,Software Development Engineer III - Data (Fulfillment)
+1475,Software Development Engineer - DevOps
+1476,Senior iOS Developer
+1477,Senior iOS Developer
+1478,Payment Switch Developer
+1479,.NET Developer
+1480,Senior Frontend Developer (Node/remote)
+1481,Senior Java Developer (remote)
+1482,Senior .NET Developer (remote)
+1483,System / Application Engineer – MES
+1484,Front-end Software Engineer (React TL)
+1485,eCommerce Web Developer
+1486,IT Manager
+1487,QA Automation Engineer (remote)
+1488,Remote DevOps Engineer (GCP/Python)
+1489,Remote DevOps Engineer (AWS/Python)
+1490,Azure Architect and Administrator
+1491,Software Development Engineer II - Frontend
+1492,Technical Programme Manager
+1493,Software Development Engineer II - Data (Fulfillment)
+1494,Product Manager
+1495,DevOps Engineer
+1496,DevOps Engineer
+1497,Senior UX/UI Designer
+1498,React Native Developer
+1499,Product Manager
+1500,Software Development Engineer II - Java
+1501,Remote Android Developer (greenfield)
+1502,C# Software Engineer
+1503,Remote iOS Developer (mid)
+1504,Remote ReactJS Developer (mid)
+1505,Senior .NET Software Engineer
+1506,Business Analyst/Project Manager
+1507,Business Analyst/Project Manager
+1508,Junior Technical Product Owner
+1509,Junior .NET Software Engineer
+1510,Senior Embedded Developer
+1511,PHP Software Engineer
+1512,Senior Android Engineer
+1513,Senior Android Engineer
+1514,Service Continuity Manager
+1515,Remote Junior DevOps
+1516,System Administrator
+1517,Technical Support Engineer
+1518,Product Designer
+1519,Senior UX Designer
+1520,Senior Product Designer
+1521,Support Manager
+1522,Software Dev Engineer - Test Automation
+1523,IT Administrator
+1524,Front-end Software Engineer (React)
+1525,IT Operations Spec./2nd Line of Support
+1526,Business Analyst
+1527,Mobile Developer (mid)
+1528,Junior Infrastructure Engineer
+1529,SysOPS / DevOPS
+1530,Technical Support Specialist
+1531,Technical Support Specialist
+1532,IT Administrator
+1533,Client Engagement Manager
+1534,Junior Client Engagement Manager
+1535,Software Tester (Automation)
+1536,Software Tester (Automation)
+1537,QA Engineer
+1538,QA Engineer
+1539,Tester manualny
+1540,IT Service Desk Specialist
+1541,Junior Customer Support IT with German
+1542,Junior JavaScript ServiceNow Developer
+1543,Junior JavaScript ServiceNow Developer
+1544,Project Manager IT
+1545,Project Manager IT
+1546,Power BI Specialist
+1547,Programista FullStack
+1548,Programista FullStack
+1549,Software Engineer - React Native
+1550,Software Engineer - Frontend
+1551,Software Engineer - Frontend
+1552,IT Solution Architect
+1553,Mid&Senior Magento Developer
+1554,Senior Front-end Developer
+1555,Senior Back-end Developer
+1556,Senior PHP (Magento) Developer
+1557,Senior Front-end Developer
+1558,Front-end Developer
+1559,Python Developer
+1560,NLP Engineer
+1561,PHP Back-end Developer
+1562,Front-end Developer
+1563,PHP Magento Developer
+1564,Product Analyst
+1565,Mobile App Analyst
+1566,Senior Web Developer AEM (Team Lead)
+1567,Senior DevOps Engineer
+1568,Cloud Solution/Data Engineer
+1569,Cloud (Azure) Data Engineer
+1570,Cloud (Azure) Developer
+1571,Senior Azure Solution Dev (Data Science)
+1572,Senior Azure Solution Designer&Developer
+1573,Application Developer (Full Stack)
+1574,Junior Software Engineer
+1575,Head of Product Management
+1576,"Senior Software Engineer, Back-End"
+1577,Remote Business / System Analyst
+1578,DevOps Engineer (AWS)
+1579,Senior Front-end Engineer (Angular)
+1580,Full Stack WordPress Developer (m/f/d)
+1581,WordPress BlockEditor Front-end Developer (m/f/d) - Remote
+1582,WordPress BlockEditor Front-end Developer (m/f/d) - Remote
+1583,PHP Developer (m/f/d) - Remote
+1584,"QA Automation (Python, IoT)"
+1585,"QA Automation (Python, IoT)"
+1586,Fullstack Developer
+1587,Senior Java Developer
+1588,Software Quality Engineer (QA)
+1589,Software Quality Engineer (QA)
+1590,Front-end Engineer (Angular)
+1591,PHP Developer
+1592,Product designer
+1593,Junior SQL Administrator
+1594,Junior Full Stack Developer
+1595,Java Developer
+1596,Junior Bioinformatician
+1597,Senior Cloud Security Engineer
+1598,Senior Software Engineer
+1599,Senior Cloud Security Engineer
+1600,Senior Software Engineer
+1601,Senior Software Engineer
+1602,Senior Cloud Security Engineer
+1603,Senior Cloud Security Engineer
+1604,Senior Cloud Security Engineer
+1605,Senior Software Engineer
+1606,Remote Senior PHP Developer
+1607,Remote Senior PHP Developer
+1608,Remote Senior PHP Developer
+1609,Remote Senior PHP Developer
+1610,PHP Developer
+1611,Remote Senior Frontend Developer
+1612,Remote Atlassian Administrator
+1613,Remote Frontend Developer
+1614,Remote Frontend Developer
+1615,Remote Python Test Automation Engineer
+1616,Remote QA Engineer / Software Tester
+1617,Remote QA Engineer / Software Tester
+1618,Remote JavaScript/WordPress Developer
+1619,WordPress DeveloperRemote JavaScript/WordPress Developer
+1620,Remote JavaScript/WordPress Developer
+1621,🎮 C++ Game Programmer
+1622,Java Tech Lead
+1623,Manager - Software Engineering
+1624,Hybrid Fullstack Developer
+1625,Technical Lead Power BI
+1626,GCP Data Engineer
+1627,AI Researcher/Data Scientist
+1628,Hybrid Senior Java Developer
+1629,Expert Azure Architect
+1630,DevOps Engineer
+1631,Technical Product Manager
+1632,Senior Engineer Manager
+1633,Enterprise Architect
+1634,Golang Developer
+1635,REMOTE Azure Data Engineer
+1636,Inżynier / Administrator LIFERAY
+1637,DevOps AWS Engineer
+1638,Tableau Developer
+1639,Senior Java Developer
+1640,Engineering Manager
+1641,Architekt rozwiązań IT
+1642,Architekt rozwiązań IT (ERP Egeria)
+1643,Starszy programista Java/Spring - ERP
+1644,Starszy programista Angular - ERP
+1645,Qlik Developer
+1646,Information Security Risk Manager
+1647,C Embedded Developer
+1648,Regular & Senior PHP Developer
+1649,Tableau Business Analyst
+1650,Starszy Programista Fullstack
+1651,Starszy Programista Java
+1652,Senior Java Developer
+1653,Java / Kotlin Developer
+1654,Mid/Senior JavaScript Developer
+1655,Senior .Net Developer
+1656,.Net Developer
+1657,Mid/Senior .Net Developer
+1658,Power BI Developer
+1659,Programista WebMethods
+1660,IT Business Analyst
+1661,Data Analyst
+1662,Google Ads Expert
+1663,Senior DevOps Engineer
+1664,Qlik Developer
+1665,Senior Ruby Engineer
+1666,Remote Automotive Software Engineer
+1667,C/C++ Engineer
+1668,DevOps Engineer
+1669,SAP BI Support Consultant
+1670,SAP SD + PS Functional Consultant
+1671,Starszy Programista ETL
+1672,Architekt IT
+1673,Architekt IT
+1674,Senior Front-End Developer
+1675,Starszy Programista Xamarin
+1676,Remote Java Developer
+1677,Senior Android Developer
+1678,Programista Fullstack
+1679,Programista Front-End
+1680,Architekt CHD (pod hurtownie danych)
+1681,Android Developer - Senior/Mid
+1682,DevOps Engineer - Senior/Mid
+1683,Inżynier Jakości Oprogramowania (QA)
+1684,Programista Java (ERP)
+1685,Programista Frontend - Angular (ERP)
+1686,Game Developer: Frontend JavaScript
+1687,Starszy Programista BI
+1688,Remote Automotive Software Engineer
+1689,Remote Automotive Software Engineer
+1690,React Developer with German
+1691,Ruby Developer
+1692,Ruby Developer
+1693,Ruby Developer
+1694,QA Team Lead
+1695,Fullstack .NET Developer
+1696,QA Automation Engineer (Java/JavaScript)
+1697,Programista BI
+1698,Junior Cyber Threat Analyst
+1699,Fullstack .NET Developer
+1700,Java Developer
+1701,SQL Database Administrator
+1702,DevOps Engineer
+1703,Scrum Master
+1704,UI Designer – Mid / Regular
+1705,Product Designer (UX/UI) – Mid / Regular
+1706,Android Developer
+1707,Product Designer (UX/UI) - Mid/Regular
+1708,Android Developer
+1709,Front-end developer
+1710,Programista Embedded
+1711,System Administrator
+1712,Programista BI
+1713,Programista Xamarin
+1714,Mid/Senior JavaScript Developer
+1715,Mid/Senior JavaScript Developer
+1716,Mid/Senior JavaScript Developer
+1717,Macro Strategist Support Engineer
+1718,Junior NOC Engineer
+1719,Support Monitoring Specialist
+1720,Business Analyst
+1721,Technical Writer
+1722,Analityk Biznesowy
+1723,Analityk Systemowy (Hurtownia Danych)
+1724,Product Owner
+1725,Programista Front-End
+1726,Programista Java
+1727,Programista PL/SQL
+1728,Programista .NET
+1729,Front-end Developer
+1730,Front-end Developer
+1731,Front-end Developer
+1732,Junior Java Developer
+1733,Młodszy Programista SOA/BizTalk
+1734,Administrator IT ds. Bezpieczeństwa
+1735,Android Developer
+1736,UI Designer
+1737,Analityk danych
+1738,Junior Fullstack PHP Developer
+1739,Junior Business Analyst
+1740,Graphic and Animation Designer
+1741,Frontend Developer
+1742,Specjalista ds. Kontroli Zmian i Wdrożeń
+1743,Business Analyst
+1744,Technical Writer - Senior/Mid
+1745,Content and Social Media Specialist
+1746,IT Support Specialist with German
+1747,.NET Developer
+1748,.NET Developer
+1749,.NET Developer
+1750,Android Developer - Junior
+1751,Junior Android Developer
+1752,Junior Front-end developer
+1753,Android Developer
+1754,Programista Embedded
+1755,"Product Support Expert (PL, ENG and GER)"
+1756,"Product Support Expert (PL, ENG and SPA)"
+1757,IT Support Specialist with French
+1758,1st Line Support with French
+1759,Tester IT
+1760,Service Delivery Coordinator
+1761,IT Support Specialist with Italian
+1762,IT Support with Czech
+1763,IT Support with Slovak
+1764,IT Support with Slovenian
+1765,1st Line Support with Italian
+1766,Junior Frontend Developer (Angular)
+1767,Junior Frontend Developer
+1768,Spec. ds Wsparcia Procesów Wew. IT
+1769,Spec. ds. Wsparcia Procesów Wewnętrznych
+1770,Junior Front-end Developer
+1771,Product Designer (UI/UX)
+1772,Back End Engineer | Operations
+1773,Android Engineer
+1774,iOS Engineer
+1775,Front End Engineer | Demand
+1776,Incident Manager
+1777,Microsoft Platform Specialist
+1778,DevOps Engineer (mid+/senior)
+1779,Front-end Developer
+1780,Angular Developer
+1781,Python Developer
+1782,Junior/Mid UX&UI Designer
+1783,Junior/Mid UX&UI Designer
+1784,Senior Java Developer
+1785,Mid Python Developer (Future Fullstack)
+1786,Mid Angular Developer (Future Fullstack)
+1787,IT Manager
+1788,Programista PL/SQL
+1789,Programista Java
+1790,Mid/Senior QA
+1791,Remote iOS Developer
+1792,Remote Mid/Senior Frontend Developer
+1793,Mid/Senior Java Developer
+1794,Java/JEE Programmer
+1795,CI/CD Analyst
+1796,Regular/Senior Embedded Developer
+1797,Senior Python Developer
+1798,Quality Assurance Engineer
+1799,Remote Regular/Senior Android Developer
+1800,Remote Regular/Senior iOS Developer
+1801,Senior Software C++ Engineer
+1802,Senior Software C++ Engineer
+1803,Senior IT Help Desk Specialist
+1804,Senior IT Help Desk Specialist
+1805,Senior IT Help Desk Specialist
+1806,Remote Cyber Security Engineer
+1807,Quality Assurance Engineer
+1808,Manual QA / Senior Manual QA
+1809,Product Owner
+1810,Line Manager
+1811,Junior Front-end Developer
+1812,Junior Angular Developer
+1813,Junior Python Developer
+1814,UX Researcher
+1815,UX/UI Designer
+1816,System Specialist
+1817,Software C++ Engineer
+1818,Software C++ Engineer
+1819,Tester Manualny
+1820,Junior Cloud Specialist
+1821,Junior Cloud Specialist
+1822,Junior UX Researcher
+1823,Junior Java Developer
+1824,Junior Software Developer
+1825,Junior Software Engineer
+1826,Junior C++ Engineer
+1827,Helpdesk Technician
+1828,Spec. ds. Edycji Stron Internetowych SEO
+1829,Młodszy Specjalista ds. SEO
+1830,Technical Program Manager – Ad Intel
+1831,Technical Program Manager – Ad Intel
+1832,Technical Program Manager–Ad Intel
+1833,Technical Program Manager–Ad Intel
+1834,(Senior) Full-Stack Software Engineer
+1835,(Senior) Ruby on Rails Engineer
+1836,(Senior) Front End Engineer/ 100% REMOTE
+1837,Senior Data Platforms Developer / REMOTE
+1838,(Senior) Ruby on Rails Engineer
+1839,(Senior) Front End Engineer/ 100% REMOTE
+1840,(Senior) Full-Stack Software Engineer
+1841,Technical Program Manager
+1842,Women in Tech - Leadership Munich/Remote
+1843,"Frontend Tech Lead (Typescript, React)"
+1844,Backend Tech Lead (Javascript/ Python)
+1845,"Frontend Tech Lead (Typescript, React)"
+1846,Backend Tech Lead (Javascript/ Python)
+1847,Women Leadership in Tech
+1848,Tech Lead - Engineering
+1849,"Tech Lead (Python, AWS) (f/x/m)"
+1850,"Tech Lead (Typescript, React) (f/x/m)"
+1851,Technical Writer
+1852,Senior React Native Engineer
+1853,Senior Back End Engr
+1854,Senior Backend Engineer (NodeJS)
+1855,"Senior Data Engineer (Python, AWS)"
+1856,"Senior Frontend Engineer (ReactJS, TypeScript)"
+1857,Data Engineer
+1858,Fronend Engineering
+1859,Sr Backend Engineer (Python/TypeScript)
+1860,Sr Backend Engineer (Python/ TypeScript)
+1861,Senior Backend Engineer (NodeJS)
+1862,Senior Frontend Engineer - Munich/Remote
+1863,FullStack Software Engineer (Ruby&React)
+1864,Senior Back End Engineer (100% Remote)
+1865,DevOps Engineer (CI/CD)
+1866,(Senior) Full-Stack Software Engineer
+1867,(Senior) Ruby on Rails Engineer
+1868,(Senior) Front End Engineer/ 100% REMOTE
+1869,Senior Back End Engineer
+1870,(Senior) Full-Stack Software Engineer
+1871,(Senior) Ruby on Rails Engineer
+1872,(Senior) Front End Engineer/ 100% REMOTE
+1873,Senior Back End Engineer
+1874,Senior Ruby Engineer (100% Remote)
+1875,Backend Engineer - Node.Js
+1876,Women in Tech
+1877,Women in Tech all levels - Munich/Remote
+1878,Dev Infrastructure & Tooling Engineer
+1879,Dev Infrastructure & Tooling Engineer
+1880,Software Engineer in Test (SDET)
+1881,Senior Java Developer
+1882,Fullstack Software Engineer
+1883,Programista Xamarin
+1884,Programista Fullstack
+1885,Programista BI
+1886,Starszy Administrator DWH/BI
+1887,System Engineer
+1888,Quality Assurance Engineer
+1889,Analityk Systemowy / Aplikacyjny
+1890,Programista Baz Danych
+1891,Talent Acquisition Specialist
+1892,IT Engineer - Tech Support​
+1893,IT Help Desk Associate
+1894,IT Help Desk Associate
+1895,Agile Delivery Lead with German
+1896,M365 Automation Specialist
+1897,"Staff Software Engineer, Monetisation"
+1898,Senior Android Software Engineer
+1899,Senior Software Engineer - JS&PHP
+1900,Test Automation Engineer
+1901,Software Engineer (d/f/m)
+1902,Software Engineer (d/f/m)
+1903,Angular Front End Developer
+1904,Backend Developer (Golang)
+1905,QA Engineer
+1906,QA Engineer
+1907,Junior React Native Developer
+1908,Młodszy Programista Java
+1909,App Developer - In-Vehicle tech
+1910,Python Developer
+1911,Email Developer
+1912,DevOps
+1913,Java/Blockchain Developer
+1914,Java/Blockchain Developer
+1915,FrontEnd Developer (Web)
+1916,FrontEnd Developer (Web)
+1917,FrFrontEnd Developer (Web)
+1918,Developer Programmer
+1919,Remote Senior Mobile Developer (Android/iOS)
+1920,Senior Developer (Angular/ React)
+1921,Remote Senior Java Backend Developer
+1922,Senior Back-end JAVA Developer
+1923,Architekt rozwiązań
+1924,Web Developer
+1925,PHP Backend Developer
+1926,Starszy Projektant UX/UI
+1927,"FullStack Developer (Angular, PHP)"
+1928,"FullStack Developer (Angular, PHP)"
+1929,Senior System Administrator
+1930,Atlassian System Administrator
+1931,Remote Mid Mobile Developer (Android/iOS)
+1932,Mid Developer (Angular/ React)
+1933,Remote Mid Java Backend Developer
+1934,Starszy Analityk Biznesowo - Systemowy
+1935,QA Automation Engineer
+1936,Atlassian System Administrator
+1937,Release Manager
+1938,IT Service Desk System Administrator
+1939,Administrator Systemów Windows
+1940,Analityk Biznesowo – Systemowy
+1941,UX/UI Designer
+1942,UX/UI Designer - Mobile
+1943,UX/UI Designer (Mobile)
+1944,Programista C#
+1945,Python Machine Learning Developer
+1946,Python Developer
+1947,Senior Java Developer
+1948,Kierownik Techniczny
+1949,Junior Java Developer
+1950,Junior Java Developer
+1951,Software Developer Internship
+1952,Graduate FPGA Developer
+1953,"Senior Data Scientist, Marketing"
+1954,Backend Software Engineer
+1955,Android Software Engineer
+1956,Team Leader (.NET) - Allegro Pay
+1957,Team Leader (.NET)-Allegro Pay
+1958,Team Leader (Mobile) - Allegro Smart
+1959,Team Leader (.NET)-Allegro Pay
+1960,Team Leader (Mobile) - Allegro Smart
+1961,Team Leader (.NET)-Allegro Pay
+1962,Team Leader (Java/Kotlin)
+1963,Team Leader (Java/Kotlin)
+1964,.Net Developer
+1965,Software Engineer (.NET) - Allegro Pay
+1966,Senior DevOps Engineer
+1967,Senior Software Engineer (Java/Kotlin)
+1968,Senior Software Engineer (Java/Kotlin)
+1969,Mobile Software Engineer (Android)
+1970,Senior Cloud Engineer-DevOps
+1971,Senior Data Engineer ( Data Science Hub)
+1972,Senior Data Engineer - Advertising
+1973,Senior Software Engineer (Java/Kotlin)
+1974,Senior Software Engineer - Python (PTO)
+1975,Senior Data Engineer - eCommerce/CDP
+1976,Senior Big Data Engineer
+1977,Senior Software Engineer (Java/Kotlin)
+1978,Senior Software Engineer - Python (PTO)
+1979,Senior Big Data Engineer
+1980,Senior Data Engineer - eCommerce/CDP
+1981,Senior Data Engineer (.NET)-Allegro Pay
+1982,Senior Software Engineer (Scala)
+1983,Senior Software Engineer (.NET)
+1984,Senior Data Engineer (Data Science Hub)
+1985,Senior Data Engineer (Data Science Hub)
+1986,Senior Software Engineer (.NET)
+1987,Senior Data Engineer (.NET)- Allegro Pay
+1988,Senior Software Engineer (Big Data Team)
+1989,Senior Software Engineer (Python)
+1990,"Analytics Engineer, Monetisation"
+1991,Senior RPA Developer
+1992,Senior React Developer
+1993,Senior Java Developer
+1994,Cloud Developer
+1995,Senior C++ Developer
+1996,Tester (Automation &  Manual)
+1997,Performance Test Engineer
+1998,Automation Test Engineer
+1999,Agile Test Engineer
+2000,Database Engineer
+2001,Software Engineer (Java/Kotlin)
+2002,Software Engineer (.NET) - Allegro Pay
+2003,Software Engineer (Python) - Data&AI
+2004,Software Engineer (.NET) - Allegro Pay
+2005,Mobile Software Engineer (Android)
+2006,Mobile Software Engineer (IOS)
+2007,Front-end Software Engineer
+2008,Mobile Software Engineer (UI)
+2009,Software Engineer (Java/Kotlin)
+2010,Cloud Engineer-DevOps
+2011,Software Engineer (.NET) - Allegro Pay
+2012,Software Engineer (Python)
+2013,Mobile Software Engineer (iOS)
+2014,Cloud Engineer-DevOps
+2015,Data Engineer (Data Science Hub)
+2016,Mid Data Engineer ( Data Science Hub)
+2017,Data Engineer - Advertising
+2018,Software Engineer (Java/Kotlin)
+2019,Big Data Engineer
+2020,Data Engineer - eCommerce/CDP
+2021,Software Engineer - Python (PTO)
+2022,Software Engineer (.NET) - Allegro Pay
+2023,Software Engineer (Java/Kotlin)
+2024,Big Data Engineer
+2025,Software Engineer (.NET) - Allegro Pay
+2026,Software Engineer - Python (PTO)
+2027,Data Engineer - eCommerce/CDP
+2028,Data Engineer - Allegro Pay
+2029,Data Engineer (Data Science Hub)
+2030,Data Engineer (Data Science Hub)
+2031,Data Engineer - Allegro Pay
+2032,Mid Software Engineer (Node.js)
+2033,Software Engineer for Big Data Team
+2034,Software Engineer (Java/Kotlin)
+2035,Software Engineer (Python)
+2036,Agile Test Engineer
+2037,C++ Backend Developer
+2038,C++ Developer
+2039,Automation Engineer
+2040,C++ Developer
+2041,Automation Engineer
+2042,Agile Test Engineer in Coredev
+2043,Mid Java Developer with Devops skills
+2044,Functional Analyst
+2045,Młodszy Specjalista / Specjalista ds. systemów AIM
+2046,Młodszy Analityk IT
+2047,SAP SD Consultant
+2048,Global IT Network & Infra Services Lead
+2049,Seller Product Lead
+2050,Business Intelligence Lead
+2051,Business Intelligence Lead
+2052,Production Support Lead
+2053,UAT & QA Associate
+2054,Application Support with API
+2055,Application Support Specialist
+2056,Software Engineer
+2057,SQL database developer
+2058,Low-Code Developer
+2059,Sr. Full-Stack Engineer(JS/TypeScript)
+2060,Java Developer
+2061,iOS Developer
+2062,iOS Developer
+2063,Android Developer Empik Go
+2064,Java Developer
+2065,Python Developer (Django) Virtualo
+2066,Project Manager
+2067,Analityk Systemowy
