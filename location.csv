@@ -1,0 +1,66 @@
+location_id,city,country_code
+1,Wien,AT
+2,Sydney,AU
+3,Sofia,BG
+4,Genewa,CH
+5,Ticino,CH
+6,Nicosia,CY
+7,Berlin,DE
+8,Copenhagen,DK
+9,Tallin,EE
+10,Barcelona,ES
+11,Madrid,ES
+12,Manresa,ES
+13,Turku,FI
+14,London,GB
+15,Londyn,GB
+16,Southampton,GB
+17,Gibraltar,GI
+18,Ateny,GR
+19,Budapeszt,HU
+20,Dublin,IE
+21,Mediolan,IT
+22,Milan,IT
+23,Wilno,LT
+24,Esch-sur-Alzette,LU
+25,Amsterdam,NL
+26,Rotterdam,NL
+27,Oslo,NO
+28,Balice,PL
+29,Bydgoszcz,PL
+30,Duchnice,PL
+31,Gdynia,PL
+32,Gliwice,PL
+33,Grodzisk Mazowiecki,PL
+34,Kalisz,PL
+35,Katowice,PL
+36,Kielce,PL
+37,Legnica,PL
+38,Lublin,PL
+39,Niemcz,PL
+40,Olsztyn,PL
+41,Opole,PL
+42,Poledno,PL
+43,Robakowo,PL
+44,Rybnik,PL
+45,Siedlce,PL
+46,Sopot,PL
+47,Szczecin,PL
+48,Tychy,PL
+49,Warsaw,PL
+50,Warszawa,PL
+51,Wejherowo,PL
+52,Wysogotowo,PL
+53,Zabrze,PL
+54,Lisboa,PT
+55,Bukareszt,RO
+56,Stockholm,SE
+57,Singapore,SG
+58,Dallas,US
+59,Fully Remote,US
+60,Miami,US
+61,Miramar,US
+62,Nashville,US
+63,New York,US
+64,San Francisco,US
+65,Santa Clara,US
