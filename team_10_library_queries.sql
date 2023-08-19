@@ -67,3 +67,19 @@ FROM position
 GROUP BY position.marker_icon
 ORDER BY count DESC;  -- Modified to order by count to get the most valued skills on top
 SELECT * FROM valued_skills;
+
+-- Companies with average salaries above the overall average
+CREATE VIEW companies_above_avg_salary AS
+SELECT 
+    company.company_id,
+    (AVG(salary.salary_from) + AVG(salary.salary_to)) / 2 AS company_avg_salary
+FROM company
+JOIN position USING (company_id)
+JOIN salary USING (salary_id)
+GROUP BY company.company_id
+HAVING company_avg_salary > (
+    SELECT 
+        (AVG(salary_from) + AVG(salary_to)) / 2 
+    FROM salary
+);
+SELECT * FROM companies_above_avg_salary;
